@@ -1,0 +1,6 @@
+model_checkpoint_path: "current_policy_3450.model"
+all_model_checkpoint_paths: "current_policy_3250.model"
+all_model_checkpoint_paths: "current_policy_3300.model"
+all_model_checkpoint_paths: "current_policy_3350.model"
+all_model_checkpoint_paths: "current_policy_3400.model"
+all_model_checkpoint_paths: "current_policy_3450.model"
