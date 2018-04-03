@@ -10,3 +10,4 @@ Residual network still in progress
 A visualization example for self-playing (heatmap represents the distribution, black patch means current decision)
 
 
+![self-play](https://github.com/excelmaxx/Alphazero_for_Gomoku/blob/master/gomoku.gif)
